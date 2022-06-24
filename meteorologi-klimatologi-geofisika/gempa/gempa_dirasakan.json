@@ -1,260 +1,236 @@
 [
   {
-    "waktu": "08/02/2022 07:29:30 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.55 BT",
-    "magnitudo": "3.2",
+    "waktu": "24/06/2022 21:22:54 WIB",
+    "lintang": "4.74 LU",
+    "bujur": "94.89 BT",
+    "magnitudo": "3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km Barat laut Calang - Aceh",
+    "warning": [
+      "II Aceh Jaya"
+    ]
+  },
+  {
+    "waktu": "23/06/2022 19:04:55 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "135.54 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km BaratLaut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "23/06/2022 18:26:47 WIB",
+    "lintang": "3.63 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.5",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Nabire",
     "warning": [
-      "II-III Kabupaten Jayapura",
-      "II Kota Jayapura"
+      "II Nabire"
     ]
   },
   {
-    "waktu": "07/02/2022 04:31:20 WIB",
-    "lintang": "0.32 LU",
-    "bujur": "122.35 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "114 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Boalemo",
-    "warning": [
-      "III Boalemo"
-    ]
-  },
-  {
-    "waktu": "04/02/2022 17:10:45 WIB",
-    "lintang": "7.48 LS",
-    "bujur": "105.92 BT",
-    "magnitudo": "5.5",
+    "waktu": "23/06/2022 17:59:39 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "140.3 BT",
+    "magnitudo": "4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 71 Km Barat Daya Bayah",
+    "wilayah": "Pusat gempa berada di laut 32 km BaratLaut Kab-Jayapura",
     "warning": [
-      "IV Pelabuhan Ratu",
-      "III Malingping",
-      "III Bayah",
-      "III Cihara",
-      "III Panggarangan",
-      "III Ciptagelar",
-      "III Wanasalam",
-      "III Sukabumi",
-      "III Rangkasbitung",
-      "III Cireunghas",
-      "III Cikeusik",
-      "II Sawarna",
-      "II Pengalengan",
-      "II Jakarta",
-      "II Kota Tangerang",
-      "II Kab. Tangerang",
-      "II Tangerang Selatan",
-      "II Parung Panjang"
+      "II - III Genyem"
     ]
   },
   {
-    "waktu": "03/02/2022 18:37:44 WIB",
-    "lintang": "7.51 LS",
-    "bujur": "119.71 BT",
-    "magnitudo": "4.9",
+    "waktu": "23/06/2022 17:57:09 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "135.49 BT",
+    "magnitudo": "4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 111 km Barat Laut Labuan Bajo",
+    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Nabire",
     "warning": [
-      "III Bima"
+      "III Nabire"
     ]
   },
   {
-    "waktu": "03/02/2022 02:29:18 WIB",
-    "lintang": "0.83 LU",
-    "bujur": "98.5 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "45 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Nias Selatan",
-    "warning": [
-      "II Pangautan"
-    ]
-  },
-  {
-    "waktu": "02/02/2022 10:23:02 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "107.91 BT",
+    "waktu": "23/06/2022 17:56:40 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "135.45 BT",
     "magnitudo": "4.2",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kabupaten Pangandaran",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Nabire",
     "warning": [
-      "II-III Tasikmalaya",
-      "II-III Ciamis",
-      "II Pangandaran",
-      "II Cipatujah",
-      "II Cijulang",
-      "II Ciawitali",
-      "II Parigi",
-      "II Cikatomas",
-      "II Singajaya",
-      "II Cisompet"
+      "III-IV Nabire"
     ]
   },
   {
-    "waktu": "02/02/2022 06:59:38 WIB",
-    "lintang": "7.1 LS",
-    "bujur": "105.28 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km barat daya Sumur",
-    "warning": [
-      "II-III Cigeulis",
-      "II-III Cimanggu",
-      "II-III Sobang",
-      "II-III Sukaresmi"
-    ]
-  },
-  {
-    "waktu": "02/02/2022 02:25:10 WIB",
-    "lintang": "7.75 LS",
-    "bujur": "128.46 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "131 Km",
-    "wilayah": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya",
-    "warning": [
-      "II-III Saumlaki"
-    ]
-  },
-  {
-    "waktu": "01/02/2022 20:59:38 WIB",
-    "lintang": "3.61 LS",
-    "bujur": "120.92 BT",
+    "waktu": "23/06/2022 11:03:47 WIB",
+    "lintang": "3.33 LS",
+    "bujur": "135.64 BT",
     "magnitudo": "2.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 6.7km BaratLaut Kolaka Utara",
-    "warning": [
-      "II-III Lasusua"
-    ]
-  },
-  {
-    "waktu": "01/02/2022 15:49:06 WIB",
-    "lintang": "7.99 LS",
-    "bujur": "111.22 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km TimurLaut Pacitan",
-    "warning": [
-      "II-III Pacitan"
-    ]
-  },
-  {
-    "waktu": "01/02/2022 14:50:43 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "4.4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 49 km barat daya Kaimana",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Nabire",
     "warning": [
-      "II Kaimana"
+      "I-II Nabire"
     ]
   },
   {
-    "waktu": "01/02/2022 07:01:35 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "118.39 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "111 Km",
-    "wilayah": "Pusat gempa berada di laut 12 km barat daya Dompu",
-    "warning": [
-      "III Bima"
-    ]
-  },
-  {
-    "waktu": "31/01/2022 03:22:21 WIB",
-    "lintang": "10.2 LS",
-    "bujur": "122.35 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di Laut 67 km Timurlaut Saburaijua",
-    "warning": [
-      "II Maumere"
-    ]
-  },
-  {
-    "waktu": "30/01/2022 16:37:55 WIB",
-    "lintang": "3.26 LU",
-    "bujur": "98.45 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km barat laut Kab. Karo",
-    "warning": [
-      "III Brastagi"
-    ]
-  },
-  {
-    "waktu": "30/01/2022 04:17:13 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "140.15 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura",
-    "warning": [
-      "II Genyem"
-    ]
-  },
-  {
-    "waktu": "28/01/2022 13:53:56 WIB",
-    "lintang": "0.22 LS",
-    "bujur": "124.49 BT",
-    "magnitudo": "5",
+    "waktu": "23/06/2022 10:49:45 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.6",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Nabire",
     "warning": [
-      "II Manado",
-      "II Kotamobagu",
-      "II Lolak"
+      "II Nabire"
     ]
   },
   {
-    "waktu": "27/01/2022 23:03:03 WIB",
-    "lintang": "8.86 LS",
-    "bujur": "108.16 BT",
+    "waktu": "22/06/2022 13:48:08 WIB",
+    "lintang": "2.1 LU",
+    "bujur": "96.46 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km tenggara Sinabang",
+    "warning": [
+      "II - III Sinabang"
+    ]
+  },
+  {
+    "waktu": "22/06/2022 02:08:17 WIB",
+    "lintang": "2.08 LU",
+    "bujur": "96.35 BT",
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 133 km Barat Daya Pangandaran",
+    "wilayah": "Pusat gempa berada di laut 43 km baratdaya Sinabang",
     "warning": [
-      "III-IV Pangandaran",
-      "III-IV Kebumen",
-      "III Tasikmalaya",
-      "III Banjar",
-      "III Ciamis",
-      "II Garut",
-      "II Periangan"
+      "IV Sinabang"
     ]
   },
   {
-    "waktu": "27/01/2022 20:20:02 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "120.5 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Selayar",
+    "waktu": "20/06/2022 12:01:37 WIB",
+    "lintang": "2.2 LU",
+    "bujur": "96.23 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km barat daya Sinabang",
     "warning": [
-      "II-III Benteng Selayar"
+      "III Lasikin Simeulue",
+      "III Sinabang"
     ]
   },
   {
-    "waktu": "27/01/2022 04:26:12 WIB",
-    "lintang": "2.73 LS",
-    "bujur": "121.99 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km selatan Kab.Morowali",
+    "waktu": "19/06/2022 22:51:49 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "118.86 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat laut Majene",
     "warning": [
-      "II-III Bahodopi"
+      "III Malunda",
+      "III Tapalang"
     ]
   },
   {
-    "waktu": "26/01/2022 11:45:26 WIB",
-    "lintang": "1.09 LU",
-    "bujur": "127.46 BT",
-    "magnitudo": "3",
+    "waktu": "19/06/2022 01:31:54 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "110.22 BT",
+    "magnitudo": "2.6",
     "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Jailolo",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Temanggung",
     "warning": [
-      "II-III Jailolo"
+      "II Ambarawa"
+    ]
+  },
+  {
+    "waktu": "18/06/2022 18:22:19 WIB",
+    "lintang": "4.93 LS",
+    "bujur": "102.98 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Kaur",
+    "warning": [
+      "IV-V Kepahiang",
+      "IV Kota Bengkulu",
+      "IV Seluma",
+      "IV Rejang Lebong",
+      "III-IV Kaur",
+      "III Liwa",
+      "III Muko-muko",
+      "II Sekincau",
+      "II Pesisir Barat",
+      "II Limau"
+    ]
+  },
+  {
+    "waktu": "13/06/2022 19:25:36 WIB",
+    "lintang": "4.68 LS",
+    "bujur": "123.32 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 12.5 km Timur laut Kulisusu Utara Buton",
+    "warning": [
+      "II - III Kulisusu"
+    ]
+  },
+  {
+    "waktu": "13/06/2022 14:38:42 WIB",
+    "lintang": "2.74 LS",
+    "bujur": "135.88 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 Km Timur laut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "13/06/2022 11:51:21 WIB",
+    "lintang": "2.78 LS",
+    "bujur": "118.55 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 48 Km Barat laut Majene",
+    "warning": [
+      "II Mamuju",
+      "II Malunda"
+    ]
+  },
+  {
+    "waktu": "12/06/2022 21:04:54 WIB",
+    "lintang": "7.06 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km tenggara Selayar",
+    "warning": [
+      "III Pulau Madu"
+    ]
+  },
+  {
+    "waktu": "12/06/2022 17:20:14 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "117.24 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km barat laut Sumbawa",
+    "warning": [
+      "III Sumbawa",
+      "II - III Sumbawa Barat",
+      "II Lombok Timur"
+    ]
+  },
+  {
+    "waktu": "12/06/2022 16:08:45 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "128.26 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km Tenggara Ambon",
+    "warning": [
+      "III Ambon"
     ]
   }
 ]
